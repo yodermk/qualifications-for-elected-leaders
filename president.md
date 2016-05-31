@@ -1,4 +1,8 @@
 # Qualifications for President
+
+## Constitutional Requirements
+No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States. [U.S. Constitution, Article II, Section 1, Clause 5]
+
 ## Above and beyond those listed in `common.md`
 
 * Significant executive experience leading some large enterprise; at least 6 years. Could include being governor,
